@@ -1,0 +1,40 @@
+.p1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2rem;
+    font-style:italic;
+    font-weight:bold;
+    color: chartreuse;
+    text-align:center ;
+    text-transform:uppercase ;
+    letter-spacing: 3;
+}
+.p2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: normal;
+    font-size: 20px;
+    text-decoration:line-through;
+}
+.p3 {
+    font-family: 'Courier New', Courier, monospace;
+    font-style: oblique;
+    font-size: 30px;
+    text-decoration: overline;
+    text-transform: capitalize;
+}
+.p4 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: inherit;
+    font-size: 50px;
+    text-decoration:underline;
+}
+.p5 {
+    text-indent: 30;
+    text-shadow: 10px 2px 8px saddlebrown;
+    text-transform:unset;
+    letter-spacing: 1;
+    word-spacing: 2px;
+    padding: 10px;
+    background-color: lawngreen;
+    margin-left: 200;
+    border: 20px dotted hotpink;
+}
